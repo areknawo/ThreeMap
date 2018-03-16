@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "rollup": "^0.57.0"
+  },
+  "dependencies": {
+    "three": "^0.91.0"
+  }
+}
