@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "name": "three-map",
-  "version": "0.0.1b",
+  "version": "0.0.1c",
   "description": "Library for high-quality vector maps built with ThreeJS",
   "author": "areknawo",
   "bugs": {
