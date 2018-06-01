@@ -1,8 +1,60 @@
 {
-  "devDependencies": {
-    "rollup": "^0.57.0"
+  "license": "MIT",
+  "name": "threemap",
+  "version": "0.0.2",
+  "description": "Library for high-quality vector maps built with ThreeJS",
+  "author": "areknawo",
+  "bugs": {
+    "url": "https://github.com/areknawo/ThreeMap/issues"
+  },
+  "homepage": "https://github.com/areknawo/ThreeMap/docs/README.md",
+  "main": "build/ThreeMap.min.js",
+  "module": "src/index.js",
+  "source": "src",
+  "scripts": {
+    "build": "bili --config './bili.config.worker.js' && bili --config './bili.config.js'",
+    "docs": "typedoc --options ./tdconfig.json"
   },
   "dependencies": {
-    "three": "^0.91.0"
-  }
+    "@mapbox/sphericalmercator": "^1.0.5",
+    "@mapbox/tilebelt": "^1.0.1",
+    "@mapbox/vector-tile": "^1.3.1",
+    "color-parse": "^1.3.5",
+    "earcut": "^2.1.3",
+    "face-normals": "^0.0.0",
+    "gl-vec2": "^1.2.0",
+    "mitt": "^1.1.3",
+    "pbf": "^3.1.0",
+    "three": "^0.91.0",
+    "tslint": "^5.10.0",
+    "xhr": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/earcut": "^2.1.0",
+    "@types/node": "^9.6.6",
+    "@types/three": "^0.91.13",
+    "babel-eslint": "^8.2.3",
+    "bili": "^3.1.1",
+    "docsify-cli": "^4.2.1",
+    "eslint": "^4.19.1",
+    "eslint-plugin-jsdoc": "^3.7.1",
+    "eslint-plugin-typescript": "^0.12.0",
+    "rollup-plugin-bundle-worker": "^0.1.0",
+    "rollup-plugin-typescript2": "^0.13.0",
+    "typedoc": "^0.11.1",
+    "typedoc-plugin-external-module-name": "^1.1.1",
+    "typescript": "^2.8.3",
+    "typescript-eslint-parser": "^15.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areknawo/Three-Map.git"
+  },
+  "keywords": [
+    "Vector",
+    "Map",
+    "ThreeJS",
+    "3D",
+    "Visualisation"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "src": "./src",
+  "out": "./docspage",
+  "ignoreCompilerErrors": true,
+  "excludeExternals": true,
+  "excludeProtected": true,
+  "excludePrivate":true,
+  "externalPattern": "**/node_modules/**/*",
+  "target": "ES6",
+  "module": "umd",
+  "hideGenerator": true,
+  "disableOutputCheck": true,
+  "mode": "modules",
+  "name":"ThreeMap",
+  "exclude": [
+    "test",
+    "src/constructor/",
+    "src/constructor",
+    "**src/constructor/*",
+    "node_modules",
+    "test/",
+    "node_modules/",
+    "**/test",
+    "**/node_modules",
+    "**/test/**/*",
+    "**/node_modules/**/*"
+  ]
+}
