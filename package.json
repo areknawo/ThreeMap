@@ -1,13 +1,13 @@
 {
   "license": "MIT",
   "name": "three-map",
-  "version": "0.0.1",
+  "version": "0.0.1b",
   "description": "Library for high-quality vector maps built with ThreeJS",
   "author": "areknawo",
   "bugs": {
     "url": "https://github.com/areknawo/ThreeMap/issues"
   },
-  "homepage": "https://github.com/areknawo/ThreeMap/docs/README.md",
+  "homepage": "https://github.com/areknawo/ThreeMap/README.md",
   "main": "build/ThreeMap.min.js",
   "module": "src/index.js",
   "source": "src",
