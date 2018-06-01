@@ -11,5 +11,5 @@ built with THREE.JS for creating stunning :sunglasses: visualizations with ease.
 ## Installation
 
 Just run: <br/>
-`npm install threemap` <br/>
+`npm install three-map` <br/>
 Or use cdn from [rawgit](https://rawgit.com/areknawo/ThreeMap/master/build/ThreeMap.min.js)
