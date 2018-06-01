@@ -32,7 +32,7 @@ Grid - main tile-grouping unit
 
 **● position**: *`number`[]*
 
-*Defined in [tilegrid.ts:36](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L36)*
+*Defined in [tilegrid.ts:36](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L36)*
 
 Current mercator position
 
@@ -43,7 +43,7 @@ ___
 
 **● tiles**: *[TileList](tilelist.tilelist-1.md)*
 
-*Defined in [tilegrid.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L40)*
+*Defined in [tilegrid.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L40)*
 
 Current tiles in view
 
@@ -54,7 +54,7 @@ ___
 
 **● zoom**: *`number`*
 
-*Defined in [tilegrid.ts:44](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L44)*
+*Defined in [tilegrid.ts:44](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L44)*
 
 Current zoom level
 
@@ -68,7 +68,7 @@ ___
 
 ▸ **getTilesForView**(): [TileList](tilelist.tilelist-1.md)
 
-*Defined in [tilegrid.ts:55](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L55)*
+*Defined in [tilegrid.ts:55](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L55)*
 
 Gets tiles inside current view.
 *__example__*: ```
@@ -86,7 +86,7 @@ ___
 
 ▸ **update**(): `void`
 
-*Defined in [tilegrid.ts:83](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L83)*
+*Defined in [tilegrid.ts:83](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L83)*
 
 Updates view on change.
 *__example__*: `gridInstance.update();`
@@ -100,7 +100,7 @@ ___
 
 ▸ **render**(view: *[IView](../interfaces/interfaces.iview.md)*): `void`
 
-*Defined in [tilegrid.ts:21](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L21)*
+*Defined in [tilegrid.ts:21](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L21)*
 
 'Renders' tiles - sends tasks to build & remove them.
 *__example__*: `Grid.render({toRender: [...], toRemove: [...]});`

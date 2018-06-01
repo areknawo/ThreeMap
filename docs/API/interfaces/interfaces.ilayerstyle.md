@@ -33,7 +33,7 @@ Each property of style should be of specified type, styleFunction (if allowed) o
 **● color**: * [styleFunction](../modules/interfaces.md#stylefunction) &#124; `string` &#124; `number`[]
 *
 
-*Defined in [ThreeMap.interfaces.ts:111](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L111)*
+*Defined in [ThreeMap.interfaces.ts:111](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L111)*
 
 Element's vertices color as hex or in other format.
 *__see__*: [color-parse](https://www.npmjs.com/package/color-parse)
@@ -45,7 +45,7 @@ ___
 
 **● cups**: *`boolean`*
 
-*Defined in [ThreeMap.interfaces.ts:134](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L134)*
+*Defined in [ThreeMap.interfaces.ts:134](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L134)*
 
 If generate cups
 *__default__*: `true`
@@ -58,7 +58,7 @@ ___
 **● height**: * [styleFunction](../modules/interfaces.md#stylefunction) &#124; `string` &#124; `number`
 *
 
-*Defined in [ThreeMap.interfaces.ts:115](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L115)*
+*Defined in [ThreeMap.interfaces.ts:115](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L115)*
 
 Element height - only for polygons.
 
@@ -70,7 +70,7 @@ ___
 **● min_height**: * [styleFunction](../modules/interfaces.md#stylefunction) &#124; `string` &#124; `number`
 *
 
-*Defined in [ThreeMap.interfaces.ts:120](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L120)*
+*Defined in [ThreeMap.interfaces.ts:120](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L120)*
 
 Element min-height - only for polygons.
 *__see__*: [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Key:min_height)
@@ -82,7 +82,7 @@ ___
 
 **● name**: *`string`*
 
-*Defined in [ThreeMap.interfaces.ts:124](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L124)*
+*Defined in [ThreeMap.interfaces.ts:124](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L124)*
 
 Layer's name e.g. buildings
 
@@ -94,7 +94,7 @@ ___
 **● show**: * [styleFunction](../modules/interfaces.md#stylefunction) &#124; `string` &#124; `boolean`
 *
 
-*Defined in [ThreeMap.interfaces.ts:129](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L129)*
+*Defined in [ThreeMap.interfaces.ts:129](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L129)*
 
 If element shall be shown
 *__default__*: `true`
@@ -106,7 +106,7 @@ ___
 
 **● type**: *[GeometryType](../modules/interfaces.md#geometrytype)*
 
-*Defined in [ThreeMap.interfaces.ts:139](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L139)*
+*Defined in [ThreeMap.interfaces.ts:139](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L139)*
 
 Accepted geometry type for layer.
 *__default__*: `ALL`
@@ -119,7 +119,7 @@ ___
 **● width**: * [styleFunction](../modules/interfaces.md#stylefunction) &#124; `string` &#124; `number`
 *
 
-*Defined in [ThreeMap.interfaces.ts:144](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L144)*
+*Defined in [ThreeMap.interfaces.ts:144](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L144)*
 
 Line width - only for lineStrings.
 *__default__*: `2`

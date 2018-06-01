@@ -35,7 +35,7 @@
 **ΤGeometryType**: * "POLYGON" &#124; "LINESTRING" &#124; "ALL"
 *
 
-*Defined in [ThreeMap.interfaces.ts:82](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L82)*
+*Defined in [ThreeMap.interfaces.ts:82](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L82)*
 
 ___
 <a id="tileprimitive"></a>
@@ -44,7 +44,7 @@ ___
 
 **ΤTilePrimitive**: *[`number`, `number`, `number`]*
 
-*Defined in [ThreeMap.interfaces.ts:14](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L14)*
+*Defined in [ThreeMap.interfaces.ts:14](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L14)*
 
 Tile primitive is an array of tile coordinates & zoom level.
 
@@ -56,7 +56,7 @@ ___
 **ΤVec2**: * `number`[] &#124; [`number`, `number`]
 *
 
-*Defined in [ThreeMap.interfaces.ts:87](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L87)*
+*Defined in [ThreeMap.interfaces.ts:87](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L87)*
 
 2D Vector - array of x, y coords.
 
@@ -68,7 +68,7 @@ ___
 **ΤVec3**: * `number`[] &#124; [`number`, `number`, `number`]
 *
 
-*Defined in [ThreeMap.interfaces.ts:92](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L92)*
+*Defined in [ThreeMap.interfaces.ts:92](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L92)*
 
 3D Vector - array of x, y, z coords.
 
@@ -79,7 +79,7 @@ ___
 
 **ΤstyleFunction**: *`function`*
 
-*Defined in [ThreeMap.interfaces.ts:100](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L100)*
+*Defined in [ThreeMap.interfaces.ts:100](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L100)*
 
 Function expression allowed in ThreeMap's style configuration. You get access to currently processed feature's properties. IT MUST RETURN VALUE OF SAME TYPE AS SPECIFIED! IT MUST BE WRITTEN AS FUNCTION EXPRESSION WITH FUNCTION KEYWORD (NO ARROW FUNCTIONS!)
 

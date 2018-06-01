@@ -108,7 +108,7 @@ ThreeMap base class
 
 *Overrides Object3D.__constructor*
 
-*Defined in [index.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L40)*
+*Defined in [index.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L40)*
 
 *__example__*: `var map = new ThreeMap({camera: [...], controls: [...], style: [...]});`
 
@@ -156,7 +156,7 @@ ___
 
 **● events**: *`EventEmitter.Emitter`*
 
-*Defined in [index.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L40)*
+*Defined in [index.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L40)*
 
 ___
 <a id="frustumculled"></a>
@@ -877,7 +877,7 @@ ___
 
 ▸ **off**(event: *`string`*, callback: *`function`*): `void`
 
-*Defined in [index.ts:97](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L97)*
+*Defined in [index.ts:97](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L97)*
 
 Unregister ThreeMap's event listener.
 *__example__*: `map.off('tileCreated', (e) => console.log(e));`
@@ -898,7 +898,7 @@ ___
 
 ▸ **on**(event: *`string`*, callback: *`function`*): `void`
 
-*Defined in [index.ts:109](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L109)*
+*Defined in [index.ts:109](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L109)*
 
 Register ThreeMap's event listener.
 *__example__*: `map.on('tileCreated', (e) => console.log(e));` `` ` ``
@@ -939,7 +939,7 @@ ___
 
 ▸ **registerExtension**(ext: *[Extension](extension.extension-1.md)*): `void`
 
-*Defined in [index.ts:120](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L120)*
+*Defined in [index.ts:120](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L120)*
 
 Registers new ThreeMap's extensions.
 *__example__*: `map.register(new ThreeMap.Extension({...}));` `` ` ``
@@ -1396,7 +1396,7 @@ ___
 
 ▸ **lonLatToMerc**(latlng: *`number`[]*): `number`[]
 
-*Defined in [index.ts:25](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L25)*
+*Defined in [index.ts:25](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L25)*
 
 Convert longitude - latitude coordinates to mercator coordinates.
 *__example__*: `ThreeMap.lonlatToMerc([77.35262, 40.2525]);`
@@ -1417,7 +1417,7 @@ ___
 
 ▸ **mercToLonLat**(mercXY: *`number`[]*): `number`[]
 
-*Defined in [index.ts:36](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L36)*
+*Defined in [index.ts:36](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L36)*
 
 Convert mercator coordinates to longitude - latitude coordinates.
 *__example__*: `ThreeMap.mercToLonLat([462073.1353, 295052.562]);`

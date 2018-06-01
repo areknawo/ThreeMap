@@ -23,7 +23,7 @@
 
 **● feature**: *`any`*
 
-*Defined in [Extension.ts:19](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L19)*
+*Defined in [Extension.ts:19](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L19)*
 
 Vector tile feature object.
 
@@ -34,7 +34,7 @@ ___
 
 **● shown**: *`boolean`*
 
-*Defined in [Extension.ts:23](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L23)*
+*Defined in [Extension.ts:23](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L23)*
 
 If feature is shown in view.
 

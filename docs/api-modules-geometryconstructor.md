@@ -34,7 +34,7 @@
 
 **●  layerOrderLevels**:  *`number`[]*  =  [100, 100, 100, 80, 60, 50, 30, 25, 20, 20, 10, 5, 2, 1, 0.5, 0.1, 0.1]
 
-*Defined in [constructor/construct.ts:47](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L47)*
+*Defined in [constructor/construct.ts:47](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L47)*
 
 
 
@@ -55,7 +55,7 @@ ___
 
 
 
-*Defined in [constructor/construct.ts:149](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L149)*
+*Defined in [constructor/construct.ts:149](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L149)*
 
 
 
@@ -91,7 +91,7 @@ ___
 
 
 
-*Defined in [constructor/construct.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L40)*
+*Defined in [constructor/construct.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L40)*
 
 
 

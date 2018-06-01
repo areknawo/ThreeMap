@@ -118,7 +118,7 @@ ThreeMap base class
 
 *Overrides Object3D.__constructor*
 
-*Defined in [index.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L40)*
+*Defined in [index.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L40)*
 
 
 *__example__*: `var map = new ThreeMap({camera: [...], controls: [...], style: [...]});`
@@ -185,7 +185,7 @@ ___
 
 **●  events**:  *`EventEmitter.Emitter`* 
 
-*Defined in [index.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L40)*
+*Defined in [index.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L40)*
 
 
 
@@ -1308,7 +1308,7 @@ ___
 
 
 
-*Defined in [index.ts:96](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L96)*
+*Defined in [index.ts:96](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L96)*
 
 
 
@@ -1344,7 +1344,7 @@ ___
 
 
 
-*Defined in [index.ts:108](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L108)*
+*Defined in [index.ts:108](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L108)*
 
 
 
@@ -1413,7 +1413,7 @@ ___
 
 
 
-*Defined in [index.ts:119](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L119)*
+*Defined in [index.ts:119](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L119)*
 
 
 
@@ -2183,7 +2183,7 @@ ___
 
 
 
-*Defined in [index.ts:25](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L25)*
+*Defined in [index.ts:25](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L25)*
 
 
 
@@ -2219,7 +2219,7 @@ ___
 
 
 
-*Defined in [index.ts:36](https://github.com/areknawo/Three-Map/blob/41e1f78/src/index.ts#L36)*
+*Defined in [index.ts:36](https://github.com/areknawo/ThreeMap/blob/master/src/index.ts#L36)*
 
 
 

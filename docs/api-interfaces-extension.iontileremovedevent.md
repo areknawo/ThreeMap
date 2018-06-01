@@ -12,7 +12,7 @@
 
 **●  tileID**:  *`string`* 
 
-*Defined in [Extension.ts:35](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L35)*
+*Defined in [Extension.ts:35](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L35)*
 
 
 

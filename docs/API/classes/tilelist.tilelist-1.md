@@ -65,7 +65,7 @@ ___
 
 ▸ **containsTile**(quadkey: *`string`*): `boolean`
 
-*Defined in [tilelist.ts:17](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilelist.ts#L17)*
+*Defined in [tilelist.ts:17](https://github.com/areknawo/ThreeMap/blob/master/src/tilelist.ts#L17)*
 
 Checks if TileList contains specific Tile by Quadkey.
 *__example__*: `TileList.containsTile("00003232");`
@@ -85,7 +85,7 @@ ___
 
 ▸ **getTilesToRender**(previousTiles?: *[TileList](tilelist.tilelist-1.md)*): [IView](../interfaces/interfaces.iview.md)
 
-*Defined in [tilelist.ts:28](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilelist.ts#L28)*
+*Defined in [tilelist.ts:28](https://github.com/areknawo/ThreeMap/blob/master/src/tilelist.ts#L28)*
 
 Get tiles to remove (not seen in current view) and render (actually seen in view).
 *__example__*: `TileList.getTilesToRender({...});`

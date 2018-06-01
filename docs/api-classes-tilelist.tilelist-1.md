@@ -119,7 +119,7 @@ ___
 
 
 
-*Defined in [tilelist.ts:17](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilelist.ts#L17)*
+*Defined in [tilelist.ts:17](https://github.com/areknawo/ThreeMap/blob/master/src/tilelist.ts#L17)*
 
 
 
@@ -154,7 +154,7 @@ ___
 
 
 
-*Defined in [tilelist.ts:33](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilelist.ts#L33)*
+*Defined in [tilelist.ts:33](https://github.com/areknawo/ThreeMap/blob/master/src/tilelist.ts#L33)*
 
 
 

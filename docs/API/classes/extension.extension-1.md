@@ -33,7 +33,7 @@ Base class provided for creating ThreeMap Extensions
 
 ⊕ **new Extension**(handlers: *[IHandlers](../interfaces/extension.ihandlers.md)*): [Extension](extension.extension-1.md)
 
-*Defined in [Extension.ts:70](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L70)*
+*Defined in [Extension.ts:70](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L70)*
 
 *__example__*: `new Extension({onFeature: ()=>{}, onTileCreated: ()=>{}, onTileRemoved: ()=>{}, onUpdate: ()=>{}});`
 
@@ -55,7 +55,7 @@ ___
 
 **● map**: *`Object3D`*
 
-*Defined in [Extension.ts:50](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L50)*
+*Defined in [Extension.ts:50](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L50)*
 
 ThreeMap ThreeJS base object - tiles container
 
@@ -66,7 +66,7 @@ ___
 
 **● onFeature**: *`function`*
 
-*Defined in [Extension.ts:54](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L54)*
+*Defined in [Extension.ts:54](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L54)*
 
 Function to be executed when new tile feature is loaded.
 
@@ -88,7 +88,7 @@ ___
 
 **● onTileCreated**: *`function`*
 
-*Defined in [Extension.ts:58](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L58)*
+*Defined in [Extension.ts:58](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L58)*
 
 Function to be executed when new tile is added to ThreeMap parent element
 
@@ -110,7 +110,7 @@ ___
 
 **● onTileRemoved**: *`function`*
 
-*Defined in [Extension.ts:62](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L62)*
+*Defined in [Extension.ts:62](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L62)*
 
 Function to be executed when tile is removed from ThreeMap parent element
 
@@ -132,7 +132,7 @@ ___
 
 **● onUpdate**: *`function`*
 
-*Defined in [Extension.ts:66](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L66)*
+*Defined in [Extension.ts:66](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L66)*
 
 Function to be executed on every ThreeJS controls update - e.g. pan, move etc.
 
@@ -154,7 +154,7 @@ ___
 
 **● style**: *[IStyle](../interfaces/interfaces.istyle.md)*
 
-*Defined in [Extension.ts:70](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L70)*
+*Defined in [Extension.ts:70](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L70)*
 
 ThreeMap style configuration object
 

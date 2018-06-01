@@ -20,7 +20,7 @@
 
 ▸ **extrudedPolygon**(vertices: *`number`[][]*, data: *[IWorkerData](../interfaces/interfaces.iworkerdata.md)*, style: *[ILayerStyle](../interfaces/interfaces.ilayerstyle.md)*): [IWorkerData](../interfaces/interfaces.iworkerdata.md)
 
-*Defined in [constructor/polygon.ts:64](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/polygon.ts#L64)*
+*Defined in [constructor/polygon.ts:64](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/polygon.ts#L64)*
 
 Generates extruded polygon - 3D Object.
 *__example__*: `extrudedPolygon(\[\[1,2\],\[3,4\],\[5,6\],\[1,2\]\], {...}, {...});
@@ -42,7 +42,7 @@ ___
 
 ▸ **flatPolygon**(vertices: *`number`[][]*, data: *[IWorkerData](../interfaces/interfaces.iworkerdata.md)*, style: *[ILayerStyle](../interfaces/interfaces.ilayerstyle.md)*): [IWorkerData](../interfaces/interfaces.iworkerdata.md)
 
-*Defined in [constructor/polygon.ts:45](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/polygon.ts#L45)*
+*Defined in [constructor/polygon.ts:45](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/polygon.ts#L45)*
 
 Generates flat polygon.
 *__example__*: `flatPolygon(\[\[1,2\],\[3,4\],\[5,6\],\[1,2\]\], {...}, {...});
@@ -64,7 +64,7 @@ ___
 
 ▸ **polygon**(data: *[IWorkerData](../interfaces/interfaces.iworkerdata.md)*, style: *[ILayerStyle](../interfaces/interfaces.ilayerstyle.md)*): [IWorkerData](../interfaces/interfaces.iworkerdata.md)
 
-*Defined in [constructor/polygon.ts:14](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/polygon.ts#L14)*
+*Defined in [constructor/polygon.ts:14](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/polygon.ts#L14)*
 
 Parses data for polygon generation.
 *__example__*: `polygon({...}, {...});`

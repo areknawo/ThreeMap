@@ -32,7 +32,7 @@ Pool of WebWorkers for handling hard task outside main thread.
 ### ⊕ **new WorkerPool**(numOfWorkers: *`number`*, callback: *`function`*): [WorkerPool](api-classes-workerpool.workerpool-1.md)
 
 
-*Defined in [workerpool.ts:16](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L16)*
+*Defined in [workerpool.ts:16](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L16)*
 
 
 *__example__*: `var pool = new WorkerPool(4, (e)=>{...});`
@@ -62,7 +62,7 @@ Pool of WebWorkers for handling hard task outside main thread.
 
 **●  taskList**:  *`any`[]* 
 
-*Defined in [workerpool.ts:14](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L14)*
+*Defined in [workerpool.ts:14](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L14)*
 
 
 
@@ -80,7 +80,7 @@ ___
 
 
 
-*Defined in [workerpool.ts:48](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L48)*
+*Defined in [workerpool.ts:48](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L48)*
 
 
 
@@ -107,7 +107,7 @@ ___
 
 
 
-*Defined in [workerpool.ts:62](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L62)*
+*Defined in [workerpool.ts:62](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L62)*
 
 
 

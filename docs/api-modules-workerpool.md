@@ -29,7 +29,7 @@
 
 **●  pool**:  *[WorkerPool](api-classes-workerpool.workerpool-1.md)* 
 
-*Defined in [workerpool.ts:68](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L68)*
+*Defined in [workerpool.ts:68](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L68)*
 
 
 
@@ -47,7 +47,7 @@ ___
 
 
 
-*Defined in [workerpool.ts:75](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L75)*
+*Defined in [workerpool.ts:75](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L75)*
 
 
 
@@ -74,7 +74,7 @@ ___
 
 
 
-*Defined in [workerpool.ts:89](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L89)*
+*Defined in [workerpool.ts:89](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L89)*
 
 
 

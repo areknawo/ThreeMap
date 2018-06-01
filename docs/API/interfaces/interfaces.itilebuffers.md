@@ -27,7 +27,7 @@ Buffers for generating geometry. Fruit of WebWorkers' work.
 
 **● colorBuffer**: *`ArrayBuffer`*
 
-*Defined in [ThreeMap.interfaces.ts:173](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L173)*
+*Defined in [ThreeMap.interfaces.ts:173](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L173)*
 
 ___
 <a id="id"></a>
@@ -36,7 +36,7 @@ ___
 
 **● id**: *`string`*
 
-*Defined in [ThreeMap.interfaces.ts:172](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L172)*
+*Defined in [ThreeMap.interfaces.ts:172](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L172)*
 
 ___
 <a id="normalbuffer"></a>
@@ -45,7 +45,7 @@ ___
 
 **● normalBuffer**: *`ArrayBuffer`*
 
-*Defined in [ThreeMap.interfaces.ts:174](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L174)*
+*Defined in [ThreeMap.interfaces.ts:174](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L174)*
 
 ___
 <a id="vertexbuffer"></a>
@@ -54,7 +54,7 @@ ___
 
 **● vertexBuffer**: *`ArrayBuffer`*
 
-*Defined in [ThreeMap.interfaces.ts:175](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L175)*
+*Defined in [ThreeMap.interfaces.ts:175](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L175)*
 
 ___
 

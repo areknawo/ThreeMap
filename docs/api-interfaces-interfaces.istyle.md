@@ -15,7 +15,7 @@ ThreeMap style configuration.
 
 **●  address**:  *`string`* 
 
-*Defined in [ThreeMap.interfaces.ts:46](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L46)*
+*Defined in [ThreeMap.interfaces.ts:46](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L46)*
 
 
 
@@ -32,7 +32,7 @@ ___
 
 **●  layers**:  *[ILayerStyle](api-interfaces-interfaces.ilayerstyle.md)[]* 
 
-*Defined in [ThreeMap.interfaces.ts:50](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L50)*
+*Defined in [ThreeMap.interfaces.ts:50](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L50)*
 
 
 
@@ -49,7 +49,7 @@ ___
 
 **●  material**:  *`Material`* 
 
-*Defined in [ThreeMap.interfaces.ts:55](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L55)*
+*Defined in [ThreeMap.interfaces.ts:55](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L55)*
 
 
 
@@ -66,7 +66,7 @@ ___
 
 **●  maxZoom**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:60](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L60)*
+*Defined in [ThreeMap.interfaces.ts:60](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L60)*
 
 
 
@@ -85,7 +85,7 @@ ___
 
 **●  minZoom**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:65](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L65)*
+*Defined in [ThreeMap.interfaces.ts:65](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L65)*
 
 
 
@@ -104,7 +104,7 @@ ___
 
 **●  tilesExtend**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:74](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L74)*
+*Defined in [ThreeMap.interfaces.ts:74](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L74)*
 
 
 
@@ -127,7 +127,7 @@ ___
 
 **●  workers**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:79](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L79)*
+*Defined in [ThreeMap.interfaces.ts:79](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L79)*
 
 
 

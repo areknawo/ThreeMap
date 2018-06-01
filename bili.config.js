@@ -2,7 +2,7 @@ module.exports = {
     input: './src/index.ts',
     outDir: './build',
     banner: {
-        version: '0.0.1 Alpha',
+        version: 'Dev 0.0.1',
         name: 'Three-Map',
         year: '2018',
         author: 'Areknawo',

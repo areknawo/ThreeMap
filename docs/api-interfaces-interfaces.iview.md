@@ -15,7 +15,7 @@ Object that represents current ThreeMap view - contains 2 Tile arrays.
 
 **●  toRemove**:  *[Tile](api-classes-tile.tile-1.md)[]* 
 
-*Defined in [ThreeMap.interfaces.ts:32](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L32)*
+*Defined in [ThreeMap.interfaces.ts:32](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L32)*
 
 
 
@@ -32,7 +32,7 @@ ___
 
 **●  toRender**:  *[Tile](api-classes-tile.tile-1.md)[]* 
 
-*Defined in [ThreeMap.interfaces.ts:36](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L36)*
+*Defined in [ThreeMap.interfaces.ts:36](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L36)*
 
 
 

@@ -15,7 +15,7 @@ Data object used inside WebWorkers for building tiles.
 
 **●  colData**:  *`number`[]* 
 
-*Defined in [ThreeMap.interfaces.ts:198](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L198)*
+*Defined in [ThreeMap.interfaces.ts:198](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L198)*
 
 
 
@@ -29,7 +29,7 @@ ___
 
 **●  cups**:  *`object`* 
 
-*Defined in [ThreeMap.interfaces.ts:199](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L199)*
+*Defined in [ThreeMap.interfaces.ts:199](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L199)*
 
 
 
@@ -43,7 +43,7 @@ ___
 
 **●  feature**:  *`VectorTileFeature`* 
 
-*Defined in [ThreeMap.interfaces.ts:200](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L200)*
+*Defined in [ThreeMap.interfaces.ts:200](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L200)*
 
 
 
@@ -57,7 +57,7 @@ ___
 
 **●  inxData**:  *`number`[]* 
 
-*Defined in [ThreeMap.interfaces.ts:201](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L201)*
+*Defined in [ThreeMap.interfaces.ts:201](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L201)*
 
 
 
@@ -71,7 +71,7 @@ ___
 
 **●  layerOrder**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:202](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L202)*
+*Defined in [ThreeMap.interfaces.ts:202](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L202)*
 
 
 
@@ -85,7 +85,7 @@ ___
 
 **●  tile**:  *[TilePrimitive](api-modules-interfaces.md#tileprimitive)* 
 
-*Defined in [ThreeMap.interfaces.ts:203](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L203)*
+*Defined in [ThreeMap.interfaces.ts:203](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L203)*
 
 
 
@@ -99,7 +99,7 @@ ___
 
 **●  vecData**:  *`number`[]* 
 
-*Defined in [ThreeMap.interfaces.ts:204](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L204)*
+*Defined in [ThreeMap.interfaces.ts:204](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L204)*
 
 
 

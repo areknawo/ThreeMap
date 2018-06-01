@@ -30,7 +30,7 @@ Grid - main tile-grouping unit
 
 **●  position**:  *`number`[]* 
 
-*Defined in [tilegrid.ts:36](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L36)*
+*Defined in [tilegrid.ts:36](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L36)*
 
 
 
@@ -47,7 +47,7 @@ ___
 
 **●  tiles**:  *[TileList](api-classes-tilelist.tilelist-1.md)* 
 
-*Defined in [tilegrid.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L40)*
+*Defined in [tilegrid.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L40)*
 
 
 
@@ -64,7 +64,7 @@ ___
 
 **●  zoom**:  *`number`* 
 
-*Defined in [tilegrid.ts:44](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L44)*
+*Defined in [tilegrid.ts:44](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L44)*
 
 
 
@@ -85,7 +85,7 @@ ___
 
 
 
-*Defined in [tilegrid.ts:55](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L55)*
+*Defined in [tilegrid.ts:55](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L55)*
 
 
 
@@ -114,7 +114,7 @@ ___
 
 
 
-*Defined in [tilegrid.ts:81](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L81)*
+*Defined in [tilegrid.ts:81](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L81)*
 
 
 
@@ -141,7 +141,7 @@ ___
 
 
 
-*Defined in [tilegrid.ts:21](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tilegrid.ts#L21)*
+*Defined in [tilegrid.ts:21](https://github.com/areknawo/ThreeMap/blob/master/src/tilegrid.ts#L21)*
 
 
 

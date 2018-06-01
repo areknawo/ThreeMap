@@ -15,7 +15,7 @@ ThreeMap globally-accessible values.
 
 **●  camera**:  *`Camera`* 
 
-*Defined in [ThreeMap.ts:24](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L24)*
+*Defined in [ThreeMap.ts:24](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L24)*
 
 
 
@@ -32,7 +32,7 @@ ___
 
 **●  controls**:  *`OrbitControls`* 
 
-*Defined in [ThreeMap.ts:28](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L28)*
+*Defined in [ThreeMap.ts:28](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L28)*
 
 
 
@@ -49,7 +49,7 @@ ___
 
 **●  events**:  *`Emitter`* 
 
-*Defined in [ThreeMap.ts:32](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L32)*
+*Defined in [ThreeMap.ts:32](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L32)*
 
 
 
@@ -63,7 +63,7 @@ ___
 
 **●  frustum**:  *`Frustum`* 
 
-*Defined in [ThreeMap.ts:36](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L36)*
+*Defined in [ThreeMap.ts:36](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L36)*
 
 
 
@@ -80,7 +80,7 @@ ___
 
 **●  grid**:  *[TileGrid](api-classes-tilegrid.tilegrid-1.md)* 
 
-*Defined in [ThreeMap.ts:40](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L40)*
+*Defined in [ThreeMap.ts:40](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L40)*
 
 
 
@@ -97,7 +97,7 @@ ___
 
 **●  material**:  *`Material`* 
 
-*Defined in [ThreeMap.ts:44](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L44)*
+*Defined in [ThreeMap.ts:44](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L44)*
 
 
 
@@ -114,7 +114,7 @@ ___
 
 **●  scene**:  *`Scene`* 
 
-*Defined in [ThreeMap.ts:48](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L48)*
+*Defined in [ThreeMap.ts:48](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L48)*
 
 
 
@@ -131,7 +131,7 @@ ___
 
 **●  style**:  *[IStyle](api-interfaces-interfaces.istyle.md)* 
 
-*Defined in [ThreeMap.ts:52](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L52)*
+*Defined in [ThreeMap.ts:52](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L52)*
 
 
 
@@ -148,7 +148,7 @@ ___
 
 **●  three_map**:  *`Object3D`* 
 
-*Defined in [ThreeMap.ts:56](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.ts#L56)*
+*Defined in [ThreeMap.ts:56](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.ts#L56)*
 
 
 

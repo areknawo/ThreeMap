@@ -31,7 +31,7 @@ Base class provided for creating ThreeMap Extensions
 ### ⊕ **new Extension**(handlers: *[IHandlers](api-interfaces-extension.ihandlers.md)*): [Extension](api-classes-extension.extension-1.md)
 
 
-*Defined in [Extension.ts:70](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L70)*
+*Defined in [Extension.ts:70](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L70)*
 
 
 *__example__*: `new Extension({onFeature: ()=>{}, onTileCreated: ()=>{}, onTileRemoved: ()=>{}, onUpdate: ()=>{}});`
@@ -60,7 +60,7 @@ Base class provided for creating ThreeMap Extensions
 
 **●  map**:  *`Object3D`* 
 
-*Defined in [Extension.ts:50](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L50)*
+*Defined in [Extension.ts:50](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L50)*
 
 
 
@@ -77,7 +77,7 @@ ___
 
 **●  onFeature**:  *`function`* 
 
-*Defined in [Extension.ts:54](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L54)*
+*Defined in [Extension.ts:54](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L54)*
 
 
 
@@ -113,7 +113,7 @@ ___
 
 **●  onTileCreated**:  *`function`* 
 
-*Defined in [Extension.ts:58](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L58)*
+*Defined in [Extension.ts:58](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L58)*
 
 
 
@@ -149,7 +149,7 @@ ___
 
 **●  onTileRemoved**:  *`function`* 
 
-*Defined in [Extension.ts:62](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L62)*
+*Defined in [Extension.ts:62](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L62)*
 
 
 
@@ -185,7 +185,7 @@ ___
 
 **●  onUpdate**:  *`function`* 
 
-*Defined in [Extension.ts:66](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L66)*
+*Defined in [Extension.ts:66](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L66)*
 
 
 
@@ -221,7 +221,7 @@ ___
 
 **●  style**:  *[IStyle](api-interfaces-interfaces.istyle.md)* 
 
-*Defined in [Extension.ts:70](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L70)*
+*Defined in [Extension.ts:70](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L70)*
 
 
 

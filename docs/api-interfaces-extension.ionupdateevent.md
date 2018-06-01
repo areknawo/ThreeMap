@@ -12,7 +12,7 @@
 
 **●  tiles**:  *[TileList](api-classes-tilelist.tilelist-1.md)* 
 
-*Defined in [Extension.ts:41](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L41)*
+*Defined in [Extension.ts:41](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L41)*
 
 
 

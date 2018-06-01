@@ -23,7 +23,7 @@
 
 **● back**: *`object`*
 
-*Defined in [constructor/linestring.ts:7](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L7)*
+*Defined in [constructor/linestring.ts:7](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L7)*
 
 #### Type declaration
 
@@ -40,7 +40,7 @@ ___
 
 **● front**: *`object`*
 
-*Defined in [constructor/linestring.ts:12](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L12)*
+*Defined in [constructor/linestring.ts:12](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L12)*
 
 #### Type declaration
 

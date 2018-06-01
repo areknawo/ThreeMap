@@ -25,7 +25,7 @@ Data of event sent from WebWorker.
 
 **● realData**: *[ITileBuffers](interfaces.itilebuffers.md)*
 
-*Defined in [ThreeMap.interfaces.ts:182](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L182)*
+*Defined in [ThreeMap.interfaces.ts:182](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L182)*
 
 ___
 <a id="type"></a>
@@ -34,7 +34,7 @@ ___
 
 **● type**: *`string`*
 
-*Defined in [ThreeMap.interfaces.ts:183](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L183)*
+*Defined in [ThreeMap.interfaces.ts:183](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L183)*
 
 ___
 

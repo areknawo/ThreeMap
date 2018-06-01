@@ -44,7 +44,7 @@
   size: 2048,
 })
 
-*Defined in [utils.ts:29](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L29)*
+*Defined in [utils.ts:29](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L29)*
 
 
 
@@ -61,7 +61,7 @@ ___
 
 **●  mercatorExtend**:  *`number`*  = 20037510
 
-*Defined in [utils.ts:17](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L17)*
+*Defined in [utils.ts:17](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L17)*
 
 
 
@@ -78,7 +78,7 @@ ___
 
 **●  scale**:  *`number`*  =  mercatorExtend / tileExtend
 
-*Defined in [utils.ts:25](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L25)*
+*Defined in [utils.ts:25](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L25)*
 
 
 
@@ -95,7 +95,7 @@ ___
 
 **●  tileExtend**:  *`number`*  = 2048
 
-*Defined in [utils.ts:21](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L21)*
+*Defined in [utils.ts:21](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L21)*
 
 
 
@@ -112,7 +112,7 @@ ___
 
 **●  tileRegex**:  *`RegExp`*  =  /{([zxy])}/g
 
-*Defined in [utils.ts:35](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L35)*
+*Defined in [utils.ts:35](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L35)*
 
 
 
@@ -133,7 +133,7 @@ ___
 
 
 
-*Defined in [utils.ts:229](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L229)*
+*Defined in [utils.ts:229](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L229)*
 
 
 
@@ -168,7 +168,7 @@ ___
 
 
 
-*Defined in [utils.ts:155](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L155)*
+*Defined in [utils.ts:155](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L155)*
 
 
 
@@ -203,7 +203,7 @@ ___
 
 
 
-*Defined in [utils.ts:211](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L211)*
+*Defined in [utils.ts:211](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L211)*
 
 
 
@@ -230,7 +230,7 @@ ___
 
 
 
-*Defined in [utils.ts:129](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L129)*
+*Defined in [utils.ts:129](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L129)*
 
 
 
@@ -266,7 +266,7 @@ ___
 
 
 
-*Defined in [utils.ts:176](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L176)*
+*Defined in [utils.ts:176](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L176)*
 
 
 
@@ -301,7 +301,7 @@ ___
 
 
 
-*Defined in [utils.ts:196](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L196)*
+*Defined in [utils.ts:196](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L196)*
 
 
 
@@ -336,7 +336,7 @@ ___
 
 
 
-*Defined in [utils.ts:43](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L43)*
+*Defined in [utils.ts:43](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L43)*
 
 
 
@@ -371,7 +371,7 @@ ___
 
 
 
-*Defined in [utils.ts:219](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L219)*
+*Defined in [utils.ts:219](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L219)*
 
 
 
@@ -398,7 +398,7 @@ ___
 
 
 
-*Defined in [utils.ts:141](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L141)*
+*Defined in [utils.ts:141](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L141)*
 
 
 
@@ -433,7 +433,7 @@ ___
 
 
 
-*Defined in [utils.ts:270](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L270)*
+*Defined in [utils.ts:270](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L270)*
 
 
 
@@ -468,7 +468,7 @@ ___
 
 
 
-*Defined in [utils.ts:107](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L107)*
+*Defined in [utils.ts:107](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L107)*
 
 
 
@@ -504,7 +504,7 @@ ___
 
 
 
-*Defined in [utils.ts:118](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L118)*
+*Defined in [utils.ts:118](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L118)*
 
 
 
@@ -540,7 +540,7 @@ ___
 
 
 
-*Defined in [utils.ts:64](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L64)*
+*Defined in [utils.ts:64](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L64)*
 
 
 
@@ -575,7 +575,7 @@ ___
 
 
 
-*Defined in [utils.ts:165](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L165)*
+*Defined in [utils.ts:165](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L165)*
 
 
 
@@ -610,7 +610,7 @@ ___
 
 
 
-*Defined in [utils.ts:279](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L279)*
+*Defined in [utils.ts:279](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L279)*
 
 
 
@@ -645,7 +645,7 @@ ___
 
 
 
-*Defined in [utils.ts:254](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L254)*
+*Defined in [utils.ts:254](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L254)*
 
 
 

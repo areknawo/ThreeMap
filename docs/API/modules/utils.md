@@ -43,7 +43,7 @@
   size: 2048,
 })
 
-*Defined in [utils.ts:30](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L30)*
+*Defined in [utils.ts:30](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L30)*
 
 SphericalMercator library instance for latLng to mercator coordinates conversion.
 
@@ -54,7 +54,7 @@ ___
 
 **● mercatorExtend**: *`number`* = 20037510
 
-*Defined in [utils.ts:18](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L18)*
+*Defined in [utils.ts:18](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L18)*
 
 X and y size of Mercator map.
 
@@ -65,7 +65,7 @@ ___
 
 **● scale**: *`number`* =  mercatorExtend / tileExtend
 
-*Defined in [utils.ts:26](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L26)*
+*Defined in [utils.ts:26](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L26)*
 
 Pre-calculated scale (tile to mercator size).
 
@@ -76,7 +76,7 @@ ___
 
 **● tileExtend**: *`number`* = 2048
 
-*Defined in [utils.ts:22](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L22)*
+*Defined in [utils.ts:22](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L22)*
 
 X and y size of tile.
 
@@ -87,7 +87,7 @@ ___
 
 **● tileRegex**: *`RegExp`* =  /{([zxy])}/g
 
-*Defined in [utils.ts:36](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L36)*
+*Defined in [utils.ts:36](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L36)*
 
 Regular expression for matching tile properties in url.
 
@@ -101,7 +101,7 @@ ___
 
 ▸ **buildFromWorkerData**(data: *[ITileBuffers](../interfaces/interfaces.itilebuffers.md)*): `void`
 
-*Defined in [utils.ts:230](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L230)*
+*Defined in [utils.ts:230](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L230)*
 
 Processes data returned from worker & creates tile's mesh.
 *__example__*: `buildFromWorkerData({...});`
@@ -121,7 +121,7 @@ ___
 
 ▸ **doesTileExists**(quadkey: *`string`*): `boolean`
 
-*Defined in [utils.ts:156](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L156)*
+*Defined in [utils.ts:156](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L156)*
 
 Checks if tile exists in grid.
 *__example__*: `doesTileExists('0123');`
@@ -141,7 +141,7 @@ ___
 
 ▸ **getCameraPosition**(): `number`[]
 
-*Defined in [utils.ts:212](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L212)*
+*Defined in [utils.ts:212](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L212)*
 
 Returns camera base plane (x & z) position.
 *__example__*: `getCameraPosition()`;`
@@ -155,7 +155,7 @@ ___
 
 ▸ **getTileFromMerc**(pos: *`number`[]*, z: *`number`*): [TilePrimitive](interfaces.md#tileprimitive)
 
-*Defined in [utils.ts:130](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L130)*
+*Defined in [utils.ts:130](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L130)*
 
 Returns tile coordinates for given mercator x & y and zoom level values.
 *__example__*: `getTileFromMerc([130533.56363, 106826.5536], 14);`
@@ -176,7 +176,7 @@ ___
 
 ▸ **getTilePosition**(id: *`string`*): `number`[]
 
-*Defined in [utils.ts:177](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L177)*
+*Defined in [utils.ts:177](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L177)*
 
 Returns given tile's center in mercator coordinates.
 *__example__*: `getTilePosition('0123');`
@@ -196,7 +196,7 @@ ___
 
 ▸ **getTileScale**(id: *`string`*): `number`
 
-*Defined in [utils.ts:197](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L197)*
+*Defined in [utils.ts:197](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L197)*
 
 Returns number representing x and y scale for resizing tile local coordinates to mercator coordinates.
 *__example__*: `getTileScale('0123');`
@@ -216,7 +216,7 @@ ___
 
 ▸ **getURLForTile**(tileObject: *[ITileObject](../interfaces/interfaces.itileobject.md)*): `string`
 
-*Defined in [utils.ts:44](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L44)*
+*Defined in [utils.ts:44](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L44)*
 
 Get url for tile object.
 *__example__*: `getURLForTile({x: 1, y: 3, z: 7);`
@@ -236,7 +236,7 @@ ___
 
 ▸ **getZoom**(): `number`
 
-*Defined in [utils.ts:220](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L220)*
+*Defined in [utils.ts:220](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L220)*
 
 Returns distance from controls' target to camera.
 *__example__*: `getZoom();`
@@ -250,7 +250,7 @@ ___
 
 ▸ **getZoomLevel**(distance: *`number`*): `number`
 
-*Defined in [utils.ts:142](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L142)*
+*Defined in [utils.ts:142](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L142)*
 
 Converts distance from camera to controls target into zoom level.
 *__example__*: `getZoomLevel(357200);`
@@ -270,7 +270,7 @@ ___
 
 ▸ **intersects**(bounds: *`Box3`*): `boolean`
 
-*Defined in [utils.ts:271](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L271)*
+*Defined in [utils.ts:271](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L271)*
 
 Checks if bounding box intersects camera's frustum.
 *__example__*: `intersects(new THREE.Box3(...));`
@@ -290,7 +290,7 @@ ___
 
 ▸ **ll2merc**(ll: *`number`[]*): `number`[]
 
-*Defined in [utils.ts:108](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L108)*
+*Defined in [utils.ts:108](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L108)*
 
 Convert longitude - latitude coordinates to mercator coordinates.
 *__example__*: `ll2merc([77.35262, 40.2525]);`
@@ -311,7 +311,7 @@ ___
 
 ▸ **merc2ll**(xy: *`number`[]*): `number`[]
 
-*Defined in [utils.ts:119](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L119)*
+*Defined in [utils.ts:119](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L119)*
 
 Converts mercator coordinates to longitude - latitude coordinates.
 *__example__*: `ThreeMap.mercToLonLat([462073.1353, 295052.562]);`
@@ -332,7 +332,7 @@ ___
 
 ▸ **readStyle**(style: *[IStyle](../interfaces/interfaces.istyle.md)*): [IStyle](../interfaces/interfaces.istyle.md)
 
-*Defined in [utils.ts:65](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L65)*
+*Defined in [utils.ts:65](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L65)*
 
 Parses ThreeMap style configuration and applies default values.
 *__example__*: `readStyle({...});`
@@ -352,7 +352,7 @@ ___
 
 ▸ **realTile**(tile: *[TilePrimitive](interfaces.md#tileprimitive)*): `boolean`
 
-*Defined in [utils.ts:166](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L166)*
+*Defined in [utils.ts:166](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L166)*
 
 Checks if tile coordinates are in specified bounds (max is 2^zoom level).
 *__example__*: `realTile([3,4,4]);`
@@ -372,7 +372,7 @@ ___
 
 ▸ **removeTile**(quadkey: *`string`*): `void`
 
-*Defined in [utils.ts:280](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L280)*
+*Defined in [utils.ts:280](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L280)*
 
 Removes tile from grid & disposes its geometry.
 *__example__*: `removeTile('0123');`
@@ -392,7 +392,7 @@ ___
 
 ▸ **tileBounds**(tile: *`string`*): `Box3`
 
-*Defined in [utils.ts:255](https://github.com/areknawo/Three-Map/blob/41e1f78/src/utils.ts#L255)*
+*Defined in [utils.ts:255](https://github.com/areknawo/ThreeMap/blob/master/src/utils.ts#L255)*
 
 Returns bounding box for tile.
 *__example__*: `tileBounds('0123');`

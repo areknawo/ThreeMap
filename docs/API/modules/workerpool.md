@@ -28,7 +28,7 @@
 
 **● pool**: *[WorkerPool](../classes/workerpool.workerpool-1.md)*
 
-*Defined in [workerpool.ts:73](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L73)*
+*Defined in [workerpool.ts:73](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L73)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 ▸ **cancelTask**(id: *`string`*): `void`
 
-*Defined in [workerpool.ts:104](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L104)*
+*Defined in [workerpool.ts:104](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L104)*
 
 Remove task from WorkerPool's queue.
 *__example__*: `cancelTask('0123');`
@@ -60,7 +60,7 @@ ___
 
 ▸ **initWorkerPool**(): `void`
 
-*Defined in [workerpool.ts:80](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L80)*
+*Defined in [workerpool.ts:80](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L80)*
 
 Creates globally-accessible WorkerPool instance.
 *__example__*: `initWorkerPool();`
@@ -74,7 +74,7 @@ ___
 
 ▸ **startWorker**(message: *[IWorkerMessage](../interfaces/interfaces.iworkermessage.md)*): `void`
 
-*Defined in [workerpool.ts:94](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L94)*
+*Defined in [workerpool.ts:94](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L94)*
 
 Sends task to WorkerPool to be handled by worker.
 *__example__*: `startWorker({...});`

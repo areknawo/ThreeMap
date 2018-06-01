@@ -16,7 +16,7 @@ Each property of style should be of specified type, styleFunction (if allowed) o
 
 **●  color**:  *[styleFunction](api-modules-interfaces.md#stylefunction)⎮`string`⎮`number`[]* 
 
-*Defined in [ThreeMap.interfaces.ts:111](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L111)*
+*Defined in [ThreeMap.interfaces.ts:111](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L111)*
 
 
 
@@ -35,7 +35,7 @@ ___
 
 **●  cups**:  *`boolean`* 
 
-*Defined in [ThreeMap.interfaces.ts:134](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L134)*
+*Defined in [ThreeMap.interfaces.ts:134](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L134)*
 
 
 
@@ -54,7 +54,7 @@ ___
 
 **●  height**:  *[styleFunction](api-modules-interfaces.md#stylefunction)⎮`string`⎮`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:115](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L115)*
+*Defined in [ThreeMap.interfaces.ts:115](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L115)*
 
 
 
@@ -71,7 +71,7 @@ ___
 
 **●  min_height**:  *[styleFunction](api-modules-interfaces.md#stylefunction)⎮`string`⎮`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:120](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L120)*
+*Defined in [ThreeMap.interfaces.ts:120](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L120)*
 
 
 
@@ -90,7 +90,7 @@ ___
 
 **●  name**:  *`string`* 
 
-*Defined in [ThreeMap.interfaces.ts:124](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L124)*
+*Defined in [ThreeMap.interfaces.ts:124](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L124)*
 
 
 
@@ -107,7 +107,7 @@ ___
 
 **●  show**:  *[styleFunction](api-modules-interfaces.md#stylefunction)⎮`string`⎮`boolean`* 
 
-*Defined in [ThreeMap.interfaces.ts:129](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L129)*
+*Defined in [ThreeMap.interfaces.ts:129](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L129)*
 
 
 
@@ -126,7 +126,7 @@ ___
 
 **●  type**:  *[GeometryType](api-modules-interfaces.md#geometrytype)* 
 
-*Defined in [ThreeMap.interfaces.ts:139](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L139)*
+*Defined in [ThreeMap.interfaces.ts:139](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L139)*
 
 
 
@@ -145,7 +145,7 @@ ___
 
 **●  width**:  *[styleFunction](api-modules-interfaces.md#stylefunction)⎮`string`⎮`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:144](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L144)*
+*Defined in [ThreeMap.interfaces.ts:144](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L144)*
 
 
 

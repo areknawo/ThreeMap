@@ -15,7 +15,7 @@ Event sent from WebWorker.
 
 **●  data**:  *[IWorkerEventData](api-interfaces-interfaces.iworkereventdata.md)* 
 
-*Defined in [ThreeMap.interfaces.ts:190](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L190)*
+*Defined in [ThreeMap.interfaces.ts:190](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L190)*
 
 
 
@@ -29,7 +29,7 @@ ___
 
 **●  target**:  *`object`* 
 
-*Defined in [ThreeMap.interfaces.ts:191](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L191)*
+*Defined in [ThreeMap.interfaces.ts:191](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L191)*
 
 
 

@@ -24,7 +24,7 @@
 
 ▸ **line**(vertices: *`number`[][]*, data: *[IWorkerData](../interfaces/interfaces.iworkerdata.md)*, style: *[ILayerStyle](../interfaces/interfaces.ilayerstyle.md)*): [IWorkerData](../interfaces/interfaces.iworkerdata.md)
 
-*Defined in [constructor/linestring.ts:92](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L92)*
+*Defined in [constructor/linestring.ts:92](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L92)*
 
 Generates line.
 *__example__*: `line([[1,2], [3,4]], {...}, {...});`
@@ -46,7 +46,7 @@ ___
 
 ▸ **lineSegment**(v1: *[Vec2](interfaces.md#vec2)*, v2: *[Vec2](interfaces.md#vec2)*, data: *[IWorkerData](../interfaces/interfaces.iworkerdata.md)*, style: *[ILayerStyle](../interfaces/interfaces.ilayerstyle.md)*): [ILineSegment](../interfaces/linestringconstructor.ilinesegment.md)
 
-*Defined in [constructor/linestring.ts:50](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L50)*
+*Defined in [constructor/linestring.ts:50](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L50)*
 
 Generates line segment - line between 2 vectors.
 *__example__*: `lineSegment([1,2], [3,4] , {...}, {...});`
@@ -69,7 +69,7 @@ ___
 
 ▸ **lineString**(data: *[IWorkerData](../interfaces/interfaces.iworkerdata.md)*, style: *[ILayerStyle](../interfaces/interfaces.ilayerstyle.md)*): [IWorkerData](../interfaces/interfaces.iworkerdata.md)
 
-*Defined in [constructor/linestring.ts:25](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L25)*
+*Defined in [constructor/linestring.ts:25](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L25)*
 
 Parses data for line generation.
 *__example__*: `lineString({...}, {...});`

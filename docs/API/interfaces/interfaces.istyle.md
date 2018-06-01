@@ -30,7 +30,7 @@ ThreeMap style configuration.
 
 **● address**: *`string`*
 
-*Defined in [ThreeMap.interfaces.ts:46](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L46)*
+*Defined in [ThreeMap.interfaces.ts:46](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L46)*
 
 Your MVT tiles address with {x}, {y} and {z} params.
 
@@ -41,7 +41,7 @@ ___
 
 **● layers**: *[ILayerStyle](interfaces.ilayerstyle.md)[]*
 
-*Defined in [ThreeMap.interfaces.ts:50](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L50)*
+*Defined in [ThreeMap.interfaces.ts:50](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L50)*
 
 Array of layers' styles
 
@@ -52,7 +52,7 @@ ___
 
 **● material**: *`Material`*
 
-*Defined in [ThreeMap.interfaces.ts:55](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L55)*
+*Defined in [ThreeMap.interfaces.ts:55](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L55)*
 
 THREE.JS Material for ThreeMap's tiles. Keep in mind that ThreeMap automatically sets vertexColors and side attributes.
 
@@ -63,7 +63,7 @@ ___
 
 **● maxZoom**: *`number`*
 
-*Defined in [ThreeMap.interfaces.ts:60](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L60)*
+*Defined in [ThreeMap.interfaces.ts:60](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L60)*
 
 Max value for address' {z} param.
 *__default__*: `16`
@@ -75,7 +75,7 @@ ___
 
 **● minZoom**: *`number`*
 
-*Defined in [ThreeMap.interfaces.ts:65](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L65)*
+*Defined in [ThreeMap.interfaces.ts:65](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L65)*
 
 Min value for address' {z} param.
 *__default__*: `1`
@@ -87,7 +87,7 @@ ___
 
 **● tilesExtend**: *`number`*
 
-*Defined in [ThreeMap.interfaces.ts:74](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L74)*
+*Defined in [ThreeMap.interfaces.ts:74](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L74)*
 
 Value for tiles calculation.  
 ThreeMap generate tiles for view by generating grid of tiles e.g. 5x5.  
@@ -103,7 +103,7 @@ ___
 
 **● workers**: *`number`*
 
-*Defined in [ThreeMap.interfaces.ts:79](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L79)*
+*Defined in [ThreeMap.interfaces.ts:79](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L79)*
 
 Number of WebWorkers to be used in WorkerPool instance.
 *__default__*: `4`

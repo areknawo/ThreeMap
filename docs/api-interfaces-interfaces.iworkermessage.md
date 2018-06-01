@@ -15,7 +15,7 @@ Message sent to WebWorker
 
 **●  id**:  *`string`* 
 
-*Defined in [ThreeMap.interfaces.ts:211](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L211)*
+*Defined in [ThreeMap.interfaces.ts:211](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L211)*
 
 
 
@@ -29,7 +29,7 @@ ___
 
 **●  style**:  *[IStyle](api-interfaces-interfaces.istyle.md)* 
 
-*Defined in [ThreeMap.interfaces.ts:212](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L212)*
+*Defined in [ThreeMap.interfaces.ts:212](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L212)*
 
 
 
@@ -43,7 +43,7 @@ ___
 
 **●  url**:  *`string`* 
 
-*Defined in [ThreeMap.interfaces.ts:213](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L213)*
+*Defined in [ThreeMap.interfaces.ts:213](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L213)*
 
 
 

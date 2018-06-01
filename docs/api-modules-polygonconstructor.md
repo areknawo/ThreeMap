@@ -22,7 +22,7 @@
 
 
 
-*Defined in [constructor/polygon.ts:64](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/polygon.ts#L64)*
+*Defined in [constructor/polygon.ts:64](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/polygon.ts#L64)*
 
 
 
@@ -59,7 +59,7 @@ ___
 
 
 
-*Defined in [constructor/polygon.ts:45](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/polygon.ts#L45)*
+*Defined in [constructor/polygon.ts:45](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/polygon.ts#L45)*
 
 
 
@@ -96,7 +96,7 @@ ___
 
 
 
-*Defined in [constructor/polygon.ts:14](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/polygon.ts#L14)*
+*Defined in [constructor/polygon.ts:14](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/polygon.ts#L14)*
 
 
 

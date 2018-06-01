@@ -105,7 +105,7 @@ export function readStyle(style: IStyle): IStyle {
  * @example `ll2merc([77.35262, 40.2525]);`
  */
 export function ll2merc(ll: number[]): number[] {
-  let xy = merc.forward(ll);
+  const xy: number[] = merc.forward(ll);
   return [xy[0], -xy[1]];
 }
 
@@ -234,7 +234,7 @@ export function buildFromWorkerData(data: ITileBuffers): void {
   const geometry: BufferGeometry = new BufferGeometry();
   geometry.addAttribute("position", new BufferAttribute(new Float32Array(data.vertexBuffer), bufferAttributeSize));
   geometry.addAttribute("color", new BufferAttribute(new Float32Array(data.colorBuffer), bufferAttributeSize));
-  geometry.addAttribute("normal", new BufferAttribute( new Float32Array(data.normalBuffer), bufferAttributeSize));
+  geometry.addAttribute("normal", new BufferAttribute(new Float32Array(data.normalBuffer), bufferAttributeSize));
   const tile: Mesh = new Mesh(geometry, TM.material);
   tile.name = data.id;
   TM.three_map.add(tile);

@@ -37,7 +37,7 @@ Full-fledged tile - used for View instances
 ### ⊕ **new Tile**(tile: *[TilePrimitive](api-modules-interfaces.md#tileprimitive)*, id?: *`string`*): [Tile](api-classes-tile.tile-1.md)
 
 
-*Defined in [tile.ts:39](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L39)*
+*Defined in [tile.ts:39](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L39)*
 
 
 *__example__*: `new Tile([10, 15, 8], "00003232");`
@@ -67,7 +67,7 @@ Full-fledged tile - used for View instances
 
 **●  bounds**:  *`Box3`* 
 
-*Defined in [tile.ts:19](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L19)*
+*Defined in [tile.ts:19](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L19)*
 
 
 
@@ -84,7 +84,7 @@ ___
 
 **●  id**:  *`string`* 
 
-*Defined in [tile.ts:23](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L23)*
+*Defined in [tile.ts:23](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L23)*
 
 
 
@@ -101,7 +101,7 @@ ___
 
 **●  x**:  *`number`* 
 
-*Defined in [tile.ts:27](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L27)*
+*Defined in [tile.ts:27](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L27)*
 
 
 
@@ -118,7 +118,7 @@ ___
 
 **●  y**:  *`number`* 
 
-*Defined in [tile.ts:31](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L31)*
+*Defined in [tile.ts:31](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L31)*
 
 
 
@@ -135,7 +135,7 @@ ___
 
 **●  z**:  *`number`* 
 
-*Defined in [tile.ts:35](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L35)*
+*Defined in [tile.ts:35](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L35)*
 
 
 
@@ -156,7 +156,7 @@ ___
 
 
 
-*Defined in [tile.ts:57](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L57)*
+*Defined in [tile.ts:57](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L57)*
 
 
 
@@ -183,7 +183,7 @@ ___
 
 
 
-*Defined in [tile.ts:66](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L66)*
+*Defined in [tile.ts:66](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L66)*
 
 
 
@@ -211,7 +211,7 @@ ___
 
 
 
-*Defined in [tile.ts:74](https://github.com/areknawo/Three-Map/blob/41e1f78/src/tile.ts#L74)*
+*Defined in [tile.ts:74](https://github.com/areknawo/ThreeMap/blob/master/src/tile.ts#L74)*
 
 
 

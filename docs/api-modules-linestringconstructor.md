@@ -27,7 +27,7 @@
 
 
 
-*Defined in [constructor/linestring.ts:92](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L92)*
+*Defined in [constructor/linestring.ts:92](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L92)*
 
 
 
@@ -64,7 +64,7 @@ ___
 
 
 
-*Defined in [constructor/linestring.ts:50](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L50)*
+*Defined in [constructor/linestring.ts:50](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L50)*
 
 
 
@@ -102,7 +102,7 @@ ___
 
 
 
-*Defined in [constructor/linestring.ts:25](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/linestring.ts#L25)*
+*Defined in [constructor/linestring.ts:25](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/linestring.ts#L25)*
 
 
 

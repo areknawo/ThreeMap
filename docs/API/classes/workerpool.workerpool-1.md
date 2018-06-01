@@ -33,7 +33,7 @@ Pool of WebWorkers for handling hard task outside main thread.
 
 ⊕ **new WorkerPool**(numOfWorkers: *`number`*, callback: *`function`*): [WorkerPool](workerpool.workerpool-1.md)
 
-*Defined in [workerpool.ts:16](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L16)*
+*Defined in [workerpool.ts:16](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L16)*
 
 *__example__*: `var pool = new WorkerPool(4, (e)=>{...});`
 
@@ -56,7 +56,7 @@ ___
 
 **● taskList**: *`object`*
 
-*Defined in [workerpool.ts:14](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L14)*
+*Defined in [workerpool.ts:14](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L14)*
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 ▸ **checkoutTasks**(): `void`
 
-*Defined in [workerpool.ts:48](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L48)*
+*Defined in [workerpool.ts:48](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L48)*
 
 Offloads tasks to workers.
 *__example__*: `pool.checkoutTasks();`
@@ -82,7 +82,7 @@ ___
 
 ▸ **startWorker**(message: *[IWorkerMessage](../interfaces/interfaces.iworkermessage.md)*): `void`
 
-*Defined in [workerpool.ts:67](https://github.com/areknawo/Three-Map/blob/41e1f78/src/workerpool.ts#L67)*
+*Defined in [workerpool.ts:67](https://github.com/areknawo/ThreeMap/blob/master/src/workerpool.ts#L67)*
 
 Add task to the list for it to be handled by worker.
 *__example__*: `pool.startWorker({...});`

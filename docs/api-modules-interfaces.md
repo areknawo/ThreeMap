@@ -35,7 +35,7 @@
 
 **Τ GeometryType**:  *"POLYGON"⎮"LINESTRING"⎮"ALL"* 
 
-*Defined in [ThreeMap.interfaces.ts:82](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L82)*
+*Defined in [ThreeMap.interfaces.ts:82](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L82)*
 
 
 
@@ -49,7 +49,7 @@ ___
 
 **Τ TilePrimitive**:  *[`number`,`number`,`number`]* 
 
-*Defined in [ThreeMap.interfaces.ts:14](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L14)*
+*Defined in [ThreeMap.interfaces.ts:14](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L14)*
 
 
 
@@ -66,7 +66,7 @@ ___
 
 **Τ Vec2**:  *`number`[]⎮[`number`,`number`]* 
 
-*Defined in [ThreeMap.interfaces.ts:87](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L87)*
+*Defined in [ThreeMap.interfaces.ts:87](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L87)*
 
 
 
@@ -83,7 +83,7 @@ ___
 
 **Τ Vec3**:  *`number`[]⎮[`number`,`number`,`number`]* 
 
-*Defined in [ThreeMap.interfaces.ts:92](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L92)*
+*Defined in [ThreeMap.interfaces.ts:92](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L92)*
 
 
 
@@ -100,7 +100,7 @@ ___
 
 **Τ styleFunction**:  *`function`* 
 
-*Defined in [ThreeMap.interfaces.ts:100](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L100)*
+*Defined in [ThreeMap.interfaces.ts:100](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L100)*
 
 
 

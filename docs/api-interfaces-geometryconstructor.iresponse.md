@@ -12,7 +12,7 @@
 
 **●  body**:  *`any`⎮`string`* 
 
-*Defined in [constructor/construct.ts:16](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L16)*
+*Defined in [constructor/construct.ts:16](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L16)*
 
 
 
@@ -26,7 +26,7 @@ ___
 
 **●  headers**:  *`__type`* 
 
-*Defined in [constructor/construct.ts:17](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L17)*
+*Defined in [constructor/construct.ts:17](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L17)*
 
 
 
@@ -40,7 +40,7 @@ ___
 
 **●  method**:  *`string`* 
 
-*Defined in [constructor/construct.ts:18](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L18)*
+*Defined in [constructor/construct.ts:18](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L18)*
 
 
 
@@ -54,7 +54,7 @@ ___
 
 **●  rawRequest**:  *`XMLHttpRequest`* 
 
-*Defined in [constructor/construct.ts:19](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L19)*
+*Defined in [constructor/construct.ts:19](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L19)*
 
 
 
@@ -68,7 +68,7 @@ ___
 
 **●  statusCode**:  *`number`* 
 
-*Defined in [constructor/construct.ts:20](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L20)*
+*Defined in [constructor/construct.ts:20](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L20)*
 
 
 
@@ -82,7 +82,7 @@ ___
 
 **●  url**:  *`string`* 
 
-*Defined in [constructor/construct.ts:21](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L21)*
+*Defined in [constructor/construct.ts:21](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L21)*
 
 
 

@@ -15,7 +15,7 @@ Alternative to TilePrimitive - tile coordinates & zoom level represented as obje
 
 **●  x**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:20](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L20)*
+*Defined in [ThreeMap.interfaces.ts:20](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L20)*
 
 
 
@@ -29,7 +29,7 @@ ___
 
 **●  y**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:21](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L21)*
+*Defined in [ThreeMap.interfaces.ts:21](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L21)*
 
 
 
@@ -43,7 +43,7 @@ ___
 
 **●  z**:  *`number`* 
 
-*Defined in [ThreeMap.interfaces.ts:22](https://github.com/areknawo/Three-Map/blob/41e1f78/src/ThreeMap.interfaces.ts#L22)*
+*Defined in [ThreeMap.interfaces.ts:22](https://github.com/areknawo/ThreeMap/blob/master/src/ThreeMap.interfaces.ts#L22)*
 
 
 

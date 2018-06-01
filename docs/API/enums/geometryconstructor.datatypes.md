@@ -19,7 +19,7 @@
 
 **Linestring**:  = 2
 
-*Defined in [constructor/construct.ts:25](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L25)*
+*Defined in [constructor/construct.ts:25](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L25)*
 
 ___
 <a id="polygon"></a>
@@ -28,7 +28,7 @@ ___
 
 **Polygon**:  = 3
 
-*Defined in [constructor/construct.ts:26](https://github.com/areknawo/Three-Map/blob/41e1f78/src/constructor/construct.ts#L26)*
+*Defined in [constructor/construct.ts:26](https://github.com/areknawo/ThreeMap/blob/master/src/constructor/construct.ts#L26)*
 
 ___
 

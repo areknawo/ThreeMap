@@ -14,7 +14,7 @@
 
 
 
-*Defined in [Extension.ts:9](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L9)*
+*Defined in [Extension.ts:9](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L9)*
 
 
 
@@ -44,7 +44,7 @@ ___
 
 
 
-*Defined in [Extension.ts:10](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L10)*
+*Defined in [Extension.ts:10](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L10)*
 
 
 
@@ -74,7 +74,7 @@ ___
 
 
 
-*Defined in [Extension.ts:11](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L11)*
+*Defined in [Extension.ts:11](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L11)*
 
 
 
@@ -104,7 +104,7 @@ ___
 
 
 
-*Defined in [Extension.ts:12](https://github.com/areknawo/Three-Map/blob/41e1f78/src/Extension.ts#L12)*
+*Defined in [Extension.ts:12](https://github.com/areknawo/ThreeMap/blob/master/src/Extension.ts#L12)*
 
 
 
