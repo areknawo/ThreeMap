@@ -128,7 +128,7 @@ export function merc2ll(xy: number[]): number[] {
  * @example `getTileFromMerc([130533.56363, 106826.5536], 14);`
  */
 export function getTileFromMerc(pos: number[], z: number): TilePrimitive {
-  const mercPos: number[] = merc2ll(pos);
+  const mercPos: number[] = merc.inverse(pos);
 
   return pointToTile(mercPos[0], mercPos[1], z);
 }

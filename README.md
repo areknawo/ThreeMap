@@ -1,5 +1,6 @@
 
-# ThreeMap Dev 0.0.1 API :earth_americas::earth_africa::earth_asia:
+# ThreeMap Dev 0.0.1 :earth_americas::earth_africa::earth_asia:
+https://areknawo.github.io/ThreeMap
 
 !> It's highly **Work In Progress** - there is still a lot to be done.
 *Do not use it in production!*
