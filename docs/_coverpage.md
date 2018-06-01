@@ -7,7 +7,7 @@
 * Customizable
 
 
-[GitHub](https://github.com/areknawo/ThreeMap)
+[GitHub](https://github.com/areknawo/ThreeMap/)
 [Get Started](/README.md)
 <!-- background color -->
 
